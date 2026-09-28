@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=200&section=header&text=Hola,%20soy%20David%20Ordoñez&fontSize=50&fontColor=ffffff" width="100%"/>
   
-  ## 🚀 Full Stack Developer | SMR + DAW
+  ## 🚀 Backend Developer · Java / Spring Boot | SMR + DAW
   
   <p>
     <em>"Uniendo el mundo del Hardware y Sistemas con el Desarrollo de Software Moderno."</em>
