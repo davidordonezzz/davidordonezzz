@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=200&section=header&text=Hola,%20soy%20David&fontSize=50&fontColor=ffffff" width="100%"/>
 
-  ## Backend Developer · Java / Spring Boot
+  ## Desarrollador web junior · Java / Spring Boot · Sistemas y soporte IT
 
-  <p><em>Desarrollador web junior (DAW + SMR) en El Puerto de Santa María, Cádiz · Disponible en Cádiz, Sevilla o remoto</em></p>
+  <p><em>DAW + SMR · El Puerto de Santa María, Cádiz · Disponible en Cádiz, Sevilla o remoto</em></p>
 
   <a href="https://portfolio-davidordonez.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Ver-0077b5?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/david-kunecka-dev/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,13 +14,13 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy desarrollador web junior centrado en backend con **Java y Spring Boot**. Empecé en **Sistemas Microinformáticos y Redes (SMR)**, así que además de programar me muevo con redes, servidores y soporte técnico. Después me gradué en **Desarrollo de Aplicaciones Web (DAW)**.
+Soy desarrollador web junior especializado en **Java y Spring Boot**, con base técnica en sistemas. Empecé en **Sistemas Microinformáticos y Redes (SMR)**, donde aprendí hardware, redes, sistemas operativos y soporte a usuarios, y después me gradué en **Desarrollo de Aplicaciones Web (DAW)**.
 
-He hecho prácticas de desarrollo en **AFT Informática**, manteniendo aplicaciones de gestión para clientes reales, y de soporte técnico en **El Puerto Global** (empresa municipal).
+He hecho prácticas de desarrollo en **AFT Informática**, manteniendo aplicaciones de gestión para clientes reales, y de soporte técnico en **El Puerto Global** (empresa municipal), atendiendo a usuarios y resolviendo incidencias.
 
 - 🎬 **Proyecto destacado:** [CineSmart](https://github.com/davidordonezzz/cinesmart), web de cartelera y compra de entradas con Spring Boot, Spring Security, JPA, MySQL y Docker.
 - 🌱 **Aprendiendo:** APIs REST con autenticación JWT y despliegue de aplicaciones Spring en la nube.
-- 💼 **Busco:** mi primer puesto como desarrollador junior backend o full stack.
+- 💼 **Busco:** mi primer puesto en desarrollo web o en soporte IT / helpdesk.
 
 ---
 
@@ -48,9 +48,15 @@ He hecho prácticas de desarrollo en **AFT Informática**, manteniendo aplicacio
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
-**Herramientas y sistemas**
+**Sistemas y soporte IT**
+<br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+Montaje y reparación de equipos · Redes · Atención a usuarios · Gestión de incidencias
+
+**Herramientas**
 <br>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
